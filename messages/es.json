@@ -1,0 +1,257 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "about": "Nosotros",
+    "projects": "Proyectos",
+    "contact": "Contacto",
+    "quote": "Cotizar"
+  },
+  "home": {
+    "hero": {
+      "badge": "Manufactura de Precisión · Monterrey, NL",
+      "title": "Maquinado CNC de Alta Precisión",
+      "title_highlight": "en Monterrey",
+      "subtitle": "Fabricamos piezas con tolerancias de ±0.001\" para la industria automotriz, aeroespacial y manufactura en general. Más de 20 años de experiencia industrial.",
+      "cta_primary": "Cotizar Proyecto",
+      "cta_secondary": "Ver Servicios"
+    },
+    "stats": {
+      "experience_value": "20+",
+      "experience_label": "Años de experiencia",
+      "parts_value": "50K+",
+      "parts_label": "Piezas producidas",
+      "tolerance_value": "±0.001\"",
+      "tolerance_label": "Tolerancia máxima",
+      "delivery_value": "48h",
+      "delivery_label": "Entrega prototipos"
+    },
+    "services_title": "Nuestros Servicios",
+    "services_subtitle": "Capacidades de manufactura avanzada para sus necesidades industriales",
+    "view_all_services": "Ver todos los servicios",
+    "benefits_title": "¿Por qué elegirnos?",
+    "benefits_subtitle": "Compromiso con la calidad en cada pieza que fabricamos",
+    "benefits": {
+      "precision": {
+        "title": "Alta Precisión",
+        "desc": "Tolerancias de ±0.001\" con equipos de medición certificados ISO"
+      },
+      "speed": {
+        "title": "Entregas Rápidas",
+        "desc": "Prototipos en 48-72h y producción en serie con seguimiento en tiempo real"
+      },
+      "quality": {
+        "title": "Control de Calidad",
+        "desc": "Inspección 100% en cada pieza con reportes dimensionales incluidos"
+      },
+      "materials": {
+        "title": "Múltiples Materiales",
+        "desc": "Aluminio, acero, latón, titanio, plásticos de ingeniería y más"
+      }
+    },
+    "cta_title": "¿Listo para fabricar tu proyecto?",
+    "cta_subtitle": "Contáctanos hoy y recibe una cotización detallada en menos de 24 horas.",
+    "cta_button": "Solicitar Cotización"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Soluciones completas de manufactura de precisión para la industria",
+    "features_title": "Capacidades",
+    "request_quote": "Cotizar este servicio",
+    "back": "← Volver a servicios",
+    "list": {
+      "torneado-cnc": {
+        "title": "Torneado CNC",
+        "short_desc": "Piezas de revolución con tolerancias estrictas.",
+        "desc": "Producimos piezas de revolución con alta precisión dimensional. Nuestros tornos CNC de última generación permiten manejar diámetros desde 5mm hasta 500mm con acabados superficiales de Ra 0.4 o mejores.",
+        "features": ["Torneado exterior e interior", "Roscado CNC métrico e imperial", "Refrentado y cilindrado", "Torneado cónico y perfilado", "Acabados superficiales Ra 0.4"]
+      },
+      "fresado-cnc": {
+        "title": "Fresado CNC",
+        "short_desc": "Mecanizado de geometrías complejas en 3 y 5 ejes.",
+        "desc": "Mecanizado de piezas prismáticas y con geometrías complejas utilizando centros de maquinado de 3 y 5 ejes. Ideal para moldes, matrices, prototipos y piezas estructurales.",
+        "features": ["Fresado 3D en 3 y 5 ejes", "Fresado de alta velocidad (HSM)", "Cavidades, bolsillos y contornos", "Superficies complejas y orgánicas", "Acabados espejo disponibles"]
+      },
+      "prototipos": {
+        "title": "Prototipos Rápidos",
+        "short_desc": "De diseño a pieza física en 48-72 horas.",
+        "desc": "Validación de diseños en tiempos récord. Recibimos tu modelo 3D (STEP, IGES, STL) y en 48-72 horas tienes tu prototipo físico con reporte dimensional completo.",
+        "features": ["Entrega express 48-72 horas", "Iteraciones rápidas de diseño", "Reportes dimensionales incluidos", "Retroalimentación de fabricabilidad", "Todos los materiales disponibles"]
+      },
+      "produccion": {
+        "title": "Producción en Serie",
+        "short_desc": "Manufactura de media y alta serie con calidad consistente.",
+        "desc": "Manufactura de series desde 10 hasta miles de piezas con calidad consistente lote a lote. Planes de control, control estadístico de proceso (SPC) y empaque especializado.",
+        "features": ["Series desde 10 hasta 10,000+ piezas", "Control estadístico de proceso (SPC)", "Planes de control y AMEF", "Empaque y etiquetado especializado", "Tiempos de ciclo optimizados"]
+      },
+      "ingenieria-inversa": {
+        "title": "Ingeniería Inversa",
+        "short_desc": "Recreamos piezas sin planos a partir de muestra física.",
+        "desc": "Cuando no existen planos, recreamos la geometría de la pieza mediante escaneo 3D de alta resolución, generamos el modelo CAD y fabricamos réplicas exactas.",
+        "features": ["Escaneo 3D de alta resolución", "Modelado CAD (STEP, IGES)", "Réplica exacta garantizada", "Ingeniería de materiales", "Mejoras de diseño opcionales"]
+      }
+    }
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "title_highlight": "20 años fabricando precisión",
+    "subtitle": "en Monterrey, Nuevo León",
+    "story_title": "Nuestra Historia",
+    "story_p1": "Fundada en 2003 en Monterrey, Nuevo León, somos una empresa familiar que creció de un pequeño taller de maquinado a una planta de manufactura de precisión con capacidad para atender proyectos nacionales e internacionales.",
+    "story_p2": "Nuestra especialidad es convertir planos y modelos 3D en piezas físicas con la precisión y calidad que la industria automotriz, aeroespacial y de manufactura en general exige. Hoy contamos con un equipo de ingenieros y técnicos especializados comprometidos con la excelencia.",
+    "mission_title": "Misión",
+    "mission": "Proveer soluciones de maquinado CNC de alta precisión que superen las expectativas de nuestros clientes en calidad, tiempo de entrega y servicio personalizado.",
+    "vision_title": "Visión",
+    "vision": "Ser el proveedor de referencia en manufactura de precisión del noreste de México, reconocidos por tecnología de punta, calidad certificada y confiabilidad total.",
+    "values_title": "Valores que nos guían",
+    "values": {
+      "precision": { "title": "Precisión", "desc": "Cada décima cuenta. No comprometemos tolerancias." },
+      "commitment": { "title": "Compromiso", "desc": "Cumplimos fechas. Su urgencia es nuestra urgencia." },
+      "quality": { "title": "Calidad", "desc": "Inspección 100%. Cero defectos es nuestro estándar." },
+      "innovation": { "title": "Innovación", "desc": "Tecnología actualizada para dar mejores soluciones." }
+    },
+    "certifications_title": "Capacidades Técnicas",
+    "certifications": [
+      "Tornos CNC multiejes hasta Ø500mm",
+      "Centros de maquinado 3 y 5 ejes",
+      "CMM para inspección dimensional",
+      "Escáner 3D de alta resolución",
+      "Software CAM: Mastercam, Fusion 360",
+      "Materiales: aluminio, acero, titanio, plásticos"
+    ],
+    "team_title": "Un equipo de expertos",
+    "team_subtitle": "Ingenieros y técnicos con décadas de experiencia industrial en Monterrey",
+    "cta_title": "Trabajemos juntos",
+    "cta_subtitle": "Cuéntanos tu proyecto y te damos una solución.",
+    "cta_button": "Contactar ahora"
+  },
+  "projects": {
+    "title": "Proyectos Destacados",
+    "subtitle": "Casos de éxito en manufactura de precisión para la industria",
+    "categories": {
+      "all": "Todos",
+      "automotive": "Automotriz",
+      "aerospace": "Aeroespacial",
+      "industrial": "Industrial",
+      "medical": "Médico"
+    },
+    "items": [
+      {
+        "id": "1",
+        "title": "Componentes de transmisión automotriz",
+        "category": "automotive",
+        "material": "Acero 4140",
+        "tolerance": "±0.005mm",
+        "quantity": "500 piezas/mes",
+        "desc": "Producción mensual de engranajes y ejes de transmisión con tolerancias críticas para OEM automotriz."
+      },
+      {
+        "id": "2",
+        "title": "Estructura aeroespacial de aluminio",
+        "category": "aerospace",
+        "material": "Al 7075-T6",
+        "tolerance": "±0.01mm",
+        "quantity": "Prototipo + Serie",
+        "desc": "Componentes estructurales fresados en 5 ejes para aplicación aeroespacial con certificación requerida."
+      },
+      {
+        "id": "3",
+        "title": "Molde de inyección de plástico",
+        "category": "industrial",
+        "material": "Acero P20",
+        "tolerance": "±0.002mm",
+        "quantity": "1 molde",
+        "desc": "Diseño y fabricación de molde de inyección para producción de 100,000 piezas plásticas."
+      },
+      {
+        "id": "4",
+        "title": "Implantes médicos de titanio",
+        "category": "medical",
+        "material": "Titanio Grado 5",
+        "tolerance": "±0.001mm",
+        "quantity": "50 piezas",
+        "desc": "Mecanizado de implantes ortopédicos con acabados superficiales Ra 0.4 para uso biomédico."
+      },
+      {
+        "id": "5",
+        "title": "Carcasa de válvulas industriales",
+        "category": "industrial",
+        "material": "Acero inoxidable 316L",
+        "tolerance": "±0.01mm",
+        "quantity": "200 piezas",
+        "desc": "Maquinado de cuerpos de válvulas para industria petroquímica con alta resistencia a la corrosión."
+      },
+      {
+        "id": "6",
+        "title": "Prototipo de componente de motor",
+        "category": "automotive",
+        "material": "Aluminio 6061",
+        "tolerance": "±0.005mm",
+        "quantity": "3 prototipos",
+        "desc": "Prototipado rápido de componentes de motor para validación de diseño antes de producción en serie."
+      }
+    ],
+    "material": "Material",
+    "tolerance": "Tolerancia",
+    "quantity": "Cantidad",
+    "cta_title": "¿Tienes un proyecto similar?",
+    "cta_subtitle": "Cuéntanos sobre tu proyecto y te preparamos una cotización.",
+    "cta_button": "Solicitar Cotización"
+  },
+  "contact": {
+    "title": "Cotiza tu Proyecto",
+    "subtitle": "Cuéntanos sobre tu proyecto y te respondemos en menos de 24 horas con una cotización detallada.",
+    "form": {
+      "name": "Nombre completo *",
+      "name_placeholder": "Ing. Juan Pérez",
+      "company": "Empresa *",
+      "company_placeholder": "Empresa Industrial S.A.",
+      "email": "Correo electrónico *",
+      "email_placeholder": "juan@empresa.com",
+      "phone": "Teléfono",
+      "phone_placeholder": "+52 81 1234 5678",
+      "service": "Servicio requerido",
+      "service_placeholder": "Selecciona un servicio",
+      "services_options": {
+        "torneado": "Torneado CNC",
+        "fresado": "Fresado CNC",
+        "prototipos": "Prototipos Rápidos",
+        "produccion": "Producción en Serie",
+        "ingenieria": "Ingeniería Inversa",
+        "otro": "Otro"
+      },
+      "message": "Descripción del proyecto *",
+      "message_placeholder": "Describe las piezas que necesitas: dimensiones, material, tolerancias, cantidad, fecha de entrega requerida...",
+      "submit": "Enviar Cotización",
+      "sending": "Enviando..."
+    },
+    "info": {
+      "address_title": "Dirección",
+      "address": "Parque Industrial Monterrey\nMonterrey, Nuevo León, México",
+      "phone_title": "Teléfono",
+      "phone": "+52 (81) 1234-5678",
+      "email_title": "Correo",
+      "email": "ventas@cncmonterrey.mx",
+      "hours_title": "Horario de atención",
+      "hours": "Lunes a Viernes: 8:00 – 18:00\nSábado: 8:00 – 13:00"
+    },
+    "success_title": "¡Mensaje enviado!",
+    "success_msg": "Gracias por contactarnos. Te responderemos en menos de 24 horas con tu cotización.",
+    "error_msg": "Ocurrió un error. Por favor intenta de nuevo o escríbenos directamente.",
+    "required": "* Campos obligatorios"
+  },
+  "cta": {
+    "title": "¿Listo para fabricar tu proyecto?",
+    "subtitle": "Contáctanos hoy y recibe una cotización detallada en menos de 24 horas.",
+    "button": "Solicitar Cotización"
+  },
+  "footer": {
+    "description": "Manufactura de precisión CNC en Monterrey, NL. Más de 20 años entregando calidad a la industria.",
+    "nav_title": "Navegación",
+    "services_title": "Servicios",
+    "contact_title": "Contacto",
+    "address": "Monterrey, Nuevo León, México",
+    "rights": "Todos los derechos reservados.",
+    "tagline": "Precisión que impulsa la industria"
+  }
+}

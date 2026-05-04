@@ -1,0 +1,257 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "projects": "Projects",
+    "contact": "Contact",
+    "quote": "Get a Quote"
+  },
+  "home": {
+    "hero": {
+      "badge": "Precision Manufacturing · Monterrey, NL",
+      "title": "High-Precision CNC Machining",
+      "title_highlight": "in Monterrey",
+      "subtitle": "We manufacture parts with ±0.001\" tolerances for the automotive, aerospace and general manufacturing industries. Over 20 years of industrial experience.",
+      "cta_primary": "Request a Quote",
+      "cta_secondary": "Our Services"
+    },
+    "stats": {
+      "experience_value": "20+",
+      "experience_label": "Years of experience",
+      "parts_value": "50K+",
+      "parts_label": "Parts produced",
+      "tolerance_value": "±0.001\"",
+      "tolerance_label": "Maximum tolerance",
+      "delivery_value": "48h",
+      "delivery_label": "Prototype delivery"
+    },
+    "services_title": "Our Services",
+    "services_subtitle": "Advanced manufacturing capabilities for your industrial needs",
+    "view_all_services": "View all services",
+    "benefits_title": "Why Choose Us?",
+    "benefits_subtitle": "Commitment to quality in every part we manufacture",
+    "benefits": {
+      "precision": {
+        "title": "High Precision",
+        "desc": "±0.001\" tolerances with ISO-certified measuring equipment"
+      },
+      "speed": {
+        "title": "Fast Delivery",
+        "desc": "Prototypes in 48-72h and serial production with real-time tracking"
+      },
+      "quality": {
+        "title": "Quality Control",
+        "desc": "100% inspection on every part with full dimensional reports included"
+      },
+      "materials": {
+        "title": "Multiple Materials",
+        "desc": "Aluminum, steel, brass, titanium, engineering plastics and more"
+      }
+    },
+    "cta_title": "Ready to manufacture your project?",
+    "cta_subtitle": "Contact us today and receive a detailed quote in less than 24 hours.",
+    "cta_button": "Request a Quote"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Complete precision manufacturing solutions for industry",
+    "features_title": "Capabilities",
+    "request_quote": "Quote this service",
+    "back": "← Back to services",
+    "list": {
+      "torneado-cnc": {
+        "title": "CNC Turning",
+        "short_desc": "Rotational parts with strict tolerances.",
+        "desc": "We produce rotational parts with high dimensional precision. Our latest-generation CNC lathes handle diameters from 5mm to 500mm with surface finishes of Ra 0.4 or better.",
+        "features": ["External and internal turning", "CNC threading metric & imperial", "Facing and cylindrical turning", "Taper and profile turning", "Surface finish Ra 0.4"]
+      },
+      "fresado-cnc": {
+        "title": "CNC Milling",
+        "short_desc": "Complex geometry machining in 3 and 5 axes.",
+        "desc": "Machining of prismatic and complex geometry parts using 3 and 5-axis machining centers. Ideal for molds, dies, prototypes and structural components.",
+        "features": ["3D milling in 3 and 5 axes", "High-speed machining (HSM)", "Cavities, pockets and contours", "Complex and organic surfaces", "Mirror finishes available"]
+      },
+      "prototipos": {
+        "title": "Rapid Prototyping",
+        "short_desc": "From design to physical part in 48-72 hours.",
+        "desc": "Design validation in record time. Send us your 3D model (STEP, IGES, STL) and in 48-72 hours you have your physical prototype with a complete dimensional report.",
+        "features": ["Express delivery 48-72 hours", "Rapid design iterations", "Dimensional reports included", "Manufacturability feedback", "All materials available"]
+      },
+      "produccion": {
+        "title": "Serial Production",
+        "short_desc": "Medium and high-volume manufacturing with consistent quality.",
+        "desc": "Manufacturing from 10 to thousands of parts with consistent lot-to-lot quality. Control plans, statistical process control (SPC) and specialized packaging.",
+        "features": ["Runs from 10 to 10,000+ parts", "Statistical process control (SPC)", "Control plans and FMEA", "Specialized packaging and labeling", "Optimized cycle times"]
+      },
+      "ingenieria-inversa": {
+        "title": "Reverse Engineering",
+        "short_desc": "We recreate parts without drawings from a physical sample.",
+        "desc": "When no drawings exist, we recreate the part geometry through high-resolution 3D scanning, generate the CAD model and manufacture exact replicas.",
+        "features": ["High-resolution 3D scanning", "CAD modeling (STEP, IGES)", "Guaranteed exact replica", "Materials engineering", "Optional design improvements"]
+      }
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "title_highlight": "20 years manufacturing precision",
+    "subtitle": "in Monterrey, Nuevo León",
+    "story_title": "Our Story",
+    "story_p1": "Founded in 2003 in Monterrey, Nuevo León, we are a family business that grew from a small machine shop to a precision manufacturing plant capable of handling national and international projects.",
+    "story_p2": "Our specialty is turning 3D drawings and models into physical parts with the precision and quality demanded by the automotive, aerospace, and general manufacturing industries. Today we have a team of engineers and specialized technicians committed to excellence.",
+    "mission_title": "Mission",
+    "mission": "To provide high-precision CNC machining solutions that exceed our customers' expectations in quality, delivery time and personalized service.",
+    "vision_title": "Vision",
+    "vision": "To be the reference supplier in precision manufacturing in northeastern Mexico, recognized for cutting-edge technology, certified quality and total reliability.",
+    "values_title": "Values that guide us",
+    "values": {
+      "precision": { "title": "Precision", "desc": "Every tenth counts. We don't compromise on tolerances." },
+      "commitment": { "title": "Commitment", "desc": "We meet deadlines. Your urgency is our urgency." },
+      "quality": { "title": "Quality", "desc": "100% inspection. Zero defects is our standard." },
+      "innovation": { "title": "Innovation", "desc": "Updated technology to deliver better solutions." }
+    },
+    "certifications_title": "Technical Capabilities",
+    "certifications": [
+      "Multi-axis CNC lathes up to Ø500mm",
+      "3 and 5-axis machining centers",
+      "CMM for dimensional inspection",
+      "High-resolution 3D scanner",
+      "CAM software: Mastercam, Fusion 360",
+      "Materials: aluminum, steel, titanium, plastics"
+    ],
+    "team_title": "A team of experts",
+    "team_subtitle": "Engineers and technicians with decades of industrial experience in Monterrey",
+    "cta_title": "Let's work together",
+    "cta_subtitle": "Tell us about your project and we'll provide a solution.",
+    "cta_button": "Contact us now"
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "subtitle": "Success stories in precision manufacturing for industry",
+    "categories": {
+      "all": "All",
+      "automotive": "Automotive",
+      "aerospace": "Aerospace",
+      "industrial": "Industrial",
+      "medical": "Medical"
+    },
+    "items": [
+      {
+        "id": "1",
+        "title": "Automotive transmission components",
+        "category": "automotive",
+        "material": "Steel 4140",
+        "tolerance": "±0.005mm",
+        "quantity": "500 parts/month",
+        "desc": "Monthly production of gears and transmission shafts with critical tolerances for automotive OEM."
+      },
+      {
+        "id": "2",
+        "title": "Aerospace aluminum structure",
+        "category": "aerospace",
+        "material": "Al 7075-T6",
+        "tolerance": "±0.01mm",
+        "quantity": "Prototype + Series",
+        "desc": "5-axis milled structural components for aerospace application requiring certification."
+      },
+      {
+        "id": "3",
+        "title": "Plastic injection mold",
+        "category": "industrial",
+        "material": "P20 Steel",
+        "tolerance": "±0.002mm",
+        "quantity": "1 mold",
+        "desc": "Design and manufacture of injection mold for production of 100,000 plastic parts."
+      },
+      {
+        "id": "4",
+        "title": "Titanium medical implants",
+        "category": "medical",
+        "material": "Grade 5 Titanium",
+        "tolerance": "±0.001mm",
+        "quantity": "50 parts",
+        "desc": "Machining of orthopedic implants with Ra 0.4 surface finishes for biomedical use."
+      },
+      {
+        "id": "5",
+        "title": "Industrial valve housing",
+        "category": "industrial",
+        "material": "SS 316L",
+        "tolerance": "±0.01mm",
+        "quantity": "200 parts",
+        "desc": "Valve body machining for the petrochemical industry with high corrosion resistance."
+      },
+      {
+        "id": "6",
+        "title": "Engine component prototype",
+        "category": "automotive",
+        "material": "Aluminum 6061",
+        "tolerance": "±0.005mm",
+        "quantity": "3 prototypes",
+        "desc": "Rapid prototyping of engine components for design validation before serial production."
+      }
+    ],
+    "material": "Material",
+    "tolerance": "Tolerance",
+    "quantity": "Quantity",
+    "cta_title": "Do you have a similar project?",
+    "cta_subtitle": "Tell us about your project and we'll prepare a quote.",
+    "cta_button": "Request a Quote"
+  },
+  "contact": {
+    "title": "Quote Your Project",
+    "subtitle": "Tell us about your project and we'll get back to you in less than 24 hours with a detailed quote.",
+    "form": {
+      "name": "Full name *",
+      "name_placeholder": "John Smith",
+      "company": "Company *",
+      "company_placeholder": "Industrial Company Inc.",
+      "email": "Email address *",
+      "email_placeholder": "john@company.com",
+      "phone": "Phone",
+      "phone_placeholder": "+1 (555) 123-4567",
+      "service": "Required service",
+      "service_placeholder": "Select a service",
+      "services_options": {
+        "torneado": "CNC Turning",
+        "fresado": "CNC Milling",
+        "prototipos": "Rapid Prototyping",
+        "produccion": "Serial Production",
+        "ingenieria": "Reverse Engineering",
+        "otro": "Other"
+      },
+      "message": "Project description *",
+      "message_placeholder": "Describe the parts you need: dimensions, material, tolerances, quantity, required delivery date...",
+      "submit": "Send Quote Request",
+      "sending": "Sending..."
+    },
+    "info": {
+      "address_title": "Address",
+      "address": "Parque Industrial Monterrey\nMonterrey, Nuevo León, México",
+      "phone_title": "Phone",
+      "phone": "+52 (81) 1234-5678",
+      "email_title": "Email",
+      "email": "sales@cncmonterrey.mx",
+      "hours_title": "Business hours",
+      "hours": "Monday to Friday: 8:00 AM – 6:00 PM\nSaturday: 8:00 AM – 1:00 PM"
+    },
+    "success_title": "Message sent!",
+    "success_msg": "Thank you for contacting us. We will respond within 24 hours with your quote.",
+    "error_msg": "An error occurred. Please try again or write to us directly.",
+    "required": "* Required fields"
+  },
+  "cta": {
+    "title": "Ready to manufacture your project?",
+    "subtitle": "Contact us today and receive a detailed quote in less than 24 hours.",
+    "button": "Request a Quote"
+  },
+  "footer": {
+    "description": "CNC precision manufacturing in Monterrey, NL. Over 20 years delivering quality to industry.",
+    "nav_title": "Navigation",
+    "services_title": "Services",
+    "contact_title": "Contact",
+    "address": "Monterrey, Nuevo León, México",
+    "rights": "All rights reserved.",
+    "tagline": "Precision that drives industry"
+  }
+}
